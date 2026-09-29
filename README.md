@@ -9,7 +9,6 @@ software development, and emerging technologies.
 ## 🛠️ Skills
 - C++
 - Python
-- HTML & CSS
 - Git & GitHub
 - Object-Oriented Programming
 - Software Engineering
