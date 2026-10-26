@@ -31,4 +31,5 @@ software development, and emerging technologies.
 - Learn new technologies
 
 ## 📫 Contact
-Email: misbahkhurhid15@gmail.com
+- Email: misbahkhurhid15@gmail.com
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/misbah-khurshid-5a3a29404/)
